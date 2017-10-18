@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"  
+     >
+
+ 
+        
+    <Button
+        android:id="@+botao/disp1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="top"
+        android:layout_weight="1"
+        android:text="Button"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+botao/disp2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="top"
+        android:layout_weight="1"
+        android:text="Button"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+botao/disp3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp7"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp8"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp9"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+
+    <Button
+        android:id="@+botao/disp10"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Button" />
+    <Button
+        android:id="@+botao/sair"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Sair" />
+
+</LinearLayout>
